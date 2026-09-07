@@ -1,12 +1,12 @@
 # Seasonal Agriculture Performance Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents a data-driven analysis of seasonal agricultural performance across different crops, geographical regions, farming conditions, resource usage, and economic outcomes.
 
 The analysis focuses on identifying seasonal patterns, variations, relationships, and unusual agricultural conditions using exploratory data analysis, statistical techniques, correlation analysis, and visualization.
 
-## 🎯 Objectives
+##  Objectives
 
 - Explore and understand the agricultural dataset
 - Clean and prepare the data for analysis
@@ -19,7 +19,7 @@ The analysis focuses on identifying seasonal patterns, variations, relationships
 - Apply appropriate statistical and visualization techniques
 - Generate evidence-based insights and recommendations
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains **4,000 agricultural observations across 28 variables**.
 
@@ -46,7 +46,7 @@ It includes information related to:
 - Water Efficiency
 - Disease/Pest Risk
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 - Python
 - Pandas
@@ -57,7 +57,7 @@ It includes information related to:
 - Statsmodels
 - Jupyter Notebook / Google Colab
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 
 ### Exploratory Data Analysis
 - Univariate Analysis
@@ -94,7 +94,7 @@ It includes information related to:
 - Disease/Pest Risk vs Profitability
 - Unusual / High-Risk Agricultural Patterns
 
-## 💡 Key Findings
+##  Key Findings
 
 - **Kharif** shows the strongest overall seasonal performance in the dataset.
 - **Zaid** records comparatively lower average yield, production, water efficiency, and profitability.
@@ -105,7 +105,7 @@ It includes information related to:
 - Several high-risk observations combine high water usage, low water efficiency, and negative profitability.
 - Seasonal differences in profitability are statistically significant, while seasonal differences in average yield are not statistically significant.
 
-## 📈 Recommendations
+##  Recommendations
 
 Based on the analysis, the project recommends:
 
@@ -117,7 +117,7 @@ Based on the analysis, the project recommends:
 - Evaluating production, revenue, costs, and profit together
 - Supporting agricultural decisions through data-driven analysis
 
-## ⚠️ Limitations
+##  Limitations
 
 - The dataset covers selected states, districts, crops, and seasons.
 - Observations are not equally distributed across all categories.
