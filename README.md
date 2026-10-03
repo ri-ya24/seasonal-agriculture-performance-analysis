@@ -1,6 +1,7 @@
 # Seasonal Agriculture Performance Analysis
 
-##DASHBOARD: https://agripulse-in.streamlit.app/
+##DASHBOARD: https://agripulse-in.streamlit.app/ 
+(Note: The Streamlit demo may take a few seconds to wake after inactivity)
 ##  Project Overview
 
 This project presents a data-driven analysis of seasonal agricultural performance across different crops, geographical regions, farming conditions, resource usage, and economic outcomes.
